@@ -53,6 +53,23 @@ A curated list of medical image segmentation resources in DL.
 - [Liver CT sequence segmentation based with improved U-Net and graph cut]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S095741741930065X) 
 - [Automatic liver segmentation from abdominal CT volumes using improved convolution neural networks]  [[springer]](https://link.springer.com/article/10.1007/s00530-020-00709-x) 
    ### Kidneys
+- [BiSC-UNet: A fine segmentation framework for kidney and renal tumor]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=BiSC-UNet%3A+A+fine+segmentation+framework+for+kidney+and+renal+tumor&btnG=) 
+- [3d kidneys and kidney tumor semantic segmentation using boundary-aware networks]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=3d+kidneys+and+kidney+tumor+semantic+segmentation+using+boundary-aware+networks&btnG=) 
+- [Kidney segmentation from computed tomography images using deep neural network]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302523) 
+- [Automatic segmentation of kidney and renal tumor in ct images based on 3d fully convolutional neural network with pyramid pooling module]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8545143) 
+- [MSS U-Net: 3D segmentation of kidneys and tumors from CT images with a multi-scale supervised U-Net]  [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S2352914820301969) 
+   ### Pancreas
+- [Deeporgan: Multi-level deep convolutional networks for automated pancreas segmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deeporgan%3A+Multi-level+deep+convolutional+networks+for+automated+pancreas+segmentation&btnG=) 
+- [A fixed-point model for pancreas segmentation in abdominal CT scans]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=A+fixed-point+model+for+pancreas+segmentation+in+abdominal+CT+scans&btnG=) 
+- [Recurrent saliency transformation network: Incorporating multi-stage visual cues for small organ segmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Recurrent+saliency+transformation+network%3A+Incorporating+multi-stage+visual+cues+for+small+organ+segmentation&btnG=) 
+- [Deep q learning driven ct pancreas segmentation with geometry-aware u-net]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+q+learning+driven+ct+pancreas+segmentation+with+geometry-aware+u-net&btnG=) 
+   ### Brain
+- [DeepNAT: Deep convolutional neural network for segmenting neuroanatom]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S1053811917301465) 
+- [Bayesian QuickNAT: model uncertainty in deep whole-brain segmentation for structure-wise quality control]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Bayesian+QuickNAT%3A+model+uncertainty+in+deep+whole-brain+segmentation+for+structure-wise+quality+control&btnG=) 
+- [AssemblyNet: A large ensemble of CNNs for 3D Whole Brain MRI Segmentation]  [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S1053811920305127) 
+- [VoxResNet: Deep voxelwise residual networks for brain segmentation from 3D MR images]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348) 
+- [RP-Net: a 3D convolutional neural network for brain segmentation from magnetic resonance imaging]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=RP-Net%3A+a+3D+convolutional+neural+network+for+brain+segmentation+from+magnetic+resonance+imaging&btnG=) 
+   ### Bladder
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 - []  [[scholar]]() 
