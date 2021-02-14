@@ -23,7 +23,14 @@ A curated list of medical image segmentation resources in DL.
 - [A modality-adaptive method for segmenting brain tumors and organs-at-risk in radiation therapy planning]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=A+modality-adaptive+method+for+segmenting+brain+tumors+and+organs-at-risk+in+radiation+therapy+planning&btnG=) 
 - [AnatomyNet: Deep learning for fast and fully automated whole-volume segmentation of head and neck anatomy]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=AnatomyNet%3A+Deep+learning+for+fast+and+fully+automated+whole-volume+segmentation+of+head+and+neck+anatomy&btnG=) 
 - [FocusNetv2: Imbalanced large and small organ segmentation with adversarial shape constraint for head and neck CT images]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S136184152030195X) 
-- []  [[scholar]]() 
+  ### Vertebrae
+- [A localisation-segmentation approach for multi-label annotation of lumbar vertebrae using deep nets]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=A+localisation-segmentation+approach+for+multi-label+annotation+of+lumbar+vertebrae+using+deep+nets&btnG=) 
+- [Iterative convolutional neural networks for automatic vertebra identification and segmentation in CT images]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Iterative+convolutional+neural+networks+for+automatic+vertebra+identification+and+segmentation+in+CT+images&btnG=) 
+- [Fully automatic segmentation of lumbar vertebrae from CT images using cascaded 3D fully convolutional networks]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Fully+automatic+segmentation+of+lumbar+vertebrae+from+CT+images+using+cascaded+3D+fully+convolutional+networks&btnG=) 
+- [Attention-driven deep learning for pathological spine segmentation]  [[Springer]](https://link.springer.com/chapter/10.1007/978-3-319-74113-0_10) 
+- [Iterative fully convolutional neural networks for automatic vertebra segmentation and identification]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Iterative+fully+convolutional+neural+networks+for+automatic+vertebra+segmentation+and+identification&btnG=) 
+- [A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures]  [[Springer]](https://link.springer.com/article/10.1007/s10278-019-00216-0) 
+  ### Lung
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 # Abnormalities Segmentation
