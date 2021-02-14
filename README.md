@@ -32,13 +32,18 @@ A curated list of medical image segmentation resources in DL.
 - [A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures]  [[Springer]](https://link.springer.com/article/10.1007/s10278-019-00216-0) 
   ### Lung
 - [Chest X-ray analysis of tuberculosis by deep learning with segmentation and augmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Chest+X-ray+analysis+of+tuberculosis+by+deep+learning+with+segmentation+and+augmentation&btnG=) 
+- [Attention u-net based adversarial architectures for chest x-ray lung segmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Attention+u-net+based+adversarial+architectures+for+chest+x-ray+lung+segmentation&btnG=) 
+- [Automatic lung segmentation in routine imaging is a data diversity problem, not a methodology problem]  [[Springer]](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-00173-2) 
+- [A deep Residual U-Net convolutional neural network for automated lung segmentation in computed tomography images]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0208521620300887) 
+- [LungSeg-Net: Lung field segmentation using generative adversarial network]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S1746809420304158) 
+- [LF-SegNet: A fully convolutional encoder--decoder network for segmenting lung fields from chest radiographs]  [[Springer]](https://link.springer.com/article/10.1007/s11277-018-5702-9) 
+- [An automatic method for lung segmentation and reconstruction in chest X-ray using deep neural networks]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0169260719303517) 
+- [Dense-Unet: a light model for lung fields segmentation in Chest X-Ray images]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9176033) 
+- [Ce-net: Context encoder network for 2d medical image segmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Ce-net%3A+Context+encoder+network+for+2d+medical+image+segmentation&btnG=) 
+  ### Liver
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 - []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
+
 # Abnormalities Segmentation
