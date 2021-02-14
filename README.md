@@ -31,6 +31,14 @@ A curated list of medical image segmentation resources in DL.
 - [Iterative fully convolutional neural networks for automatic vertebra segmentation and identification]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Iterative+fully+convolutional+neural+networks+for+automatic+vertebra+segmentation+and+identification&btnG=) 
 - [A Region-Based Deep Level Set Formulation for Vertebral Bone Segmentation of Osteoporotic Fractures]  [[Springer]](https://link.springer.com/article/10.1007/s10278-019-00216-0) 
   ### Lung
+- [Chest X-ray analysis of tuberculosis by deep learning with segmentation and augmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Chest+X-ray+analysis+of+tuberculosis+by+deep+learning+with+segmentation+and+augmentation&btnG=) 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
+- []  [[scholar]]() 
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 # Abnormalities Segmentation
