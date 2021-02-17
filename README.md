@@ -40,6 +40,7 @@ A curated list of medical image segmentation resources in DL.
 - [An automatic method for lung segmentation and reconstruction in chest X-ray using deep neural networks]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0169260719303517) 
 - [Dense-Unet: a light model for lung fields segmentation in Chest X-Ray images]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9176033) 
 - [Ce-net: Context encoder network for 2d medical image segmentation]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Ce-net%3A+Context+encoder+network+for+2d+medical+image+segmentation&btnG=) 
+- [Segmentation of lungs in chest X-ray image using generative adversarial networks]  [[scholar]] (https://scholar.google.com/scholar?hl=ar&as_sdt=2005&sciodt=0%2C5&as_ylo=2016&as_yhi=2020&cites=1628899667418468681&scipsc=1&q=Segmentation+of+lungs+in+chest+X-ray+image+using+generative+adversarial+networks&btnG=)
   ### Liver
 - [3D deeply supervised network for automatic liver segmentation from CT volumes]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=3D+deeply+supervised+network+for+automatic+liver+segmentation+from+CT+volumes&btnG=) 
 - [Image segmentation of liver CT based on fully convolutional network]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8275754) 
