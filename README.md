@@ -71,7 +71,14 @@ A curated list of medical image segmentation resources in DL.
 - [VoxResNet: Deep voxelwise residual networks for brain segmentation from 3D MR images]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348) 
 - [RP-Net: a 3D convolutional neural network for brain segmentation from magnetic resonance imaging]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=RP-Net%3A+a+3D+convolutional+neural+network+for+brain+segmentation+from+magnetic+resonance+imaging&btnG=) 
    ### Bladder
-- []  [[scholar]]() 
+- [Urinary bladder segmentation in CT urography using deep-learning convolutional neural network and level sets]  [[wiley Online Library]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4944498) 
+- [U-Net based deep learning bladder segmentation in CT urography]  [[wiley Online Library]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13438) 
+- [Deep-learning convolutional neural network: Inner and outer bladder wall segmentation in CT urography]  [[wiley Online Library]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13326) 
+- [Bladder Wall Segmentation in MRI Images via Deep Learning and Anatomical Constraints]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9176112) 
+- [A CNN-Based Framework for Bladder Wall Segmentation Using MRI]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8940266) 
+- [Multiregion segmentation of bladder cancer structures in MRI with progressive dilated convolutional networks]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Multiregion+segmentation+of+bladder+cancer+structures+in+MRI+with+progressive+dilated+convolutional+networks&btnG=) 
+- [Accurate segmentation of bladder wall and tumor regions in MRI using stacked dilated U-Net with focal loss]  [[SPIE Digital Library]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11431/114310B/Accurate-segmentation-of-bladder-wall-and-tumor-regions-in-MRI/10.1117/12.2538323.short?SSO=1) 
+  ### Heart
 - []  [[scholar]]() 
 - []  [[scholar]]() 
 - []  [[scholar]]() 
