@@ -115,7 +115,10 @@ A curated list of medical image segmentation resources in DL.
 - [Deep vessel segmentation by learning graphical connectivity]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+vessel+segmentation+by+learning+graphical+connectivity&btnG=) 
  
 # Abnormalities Segmentation
-- []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
-- []  [[scholar]]() 
+### Lesions Segmentation
+#### Brain tumors
+- [Brain tumor segmentation using convolutional neural networks in MRI images]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Brain+tumor+segmentation+using+convolutional+neural+networks+in+MRI+images&btnG=) 
+- [Brain tumor segmentation in multi-spectral MRI using convolutional neural networks (CNN)]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Brain+tumor+segmentation+in+multi-spectral+MRI+using+convolutional+neural+networks+%28CNN%29&btnG=) 
+- [Brain tumor segmentation with deep neural networks]  [[scholar]](https://scholar.google.com/scholar?q=Brain+tumor+segmentation+with+deep+neural+networks&hl=ar&as_sdt=0&as_vis=1&oi=scholart) 
+- [Brain tumor segmentation with deep convolutional symmetric neural network]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219304692) 
+- [] [[]]()
