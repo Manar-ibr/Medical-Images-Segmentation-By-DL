@@ -5,7 +5,7 @@ A curated list of medical image segmentation resources in DL.
 
 
 ## Overview
-- [Review](#review)
+
 - [Anatomical Structures Segmentation](#Anatomical-Structures-Segmentation)
 - [Abnormalities Segmentation](#Abnormalities-Segmentation)
 
