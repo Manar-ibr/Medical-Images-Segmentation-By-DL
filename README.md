@@ -121,4 +121,23 @@ A curated list of medical image segmentation resources in DL.
 - [Brain tumor segmentation in multi-spectral MRI using convolutional neural networks (CNN)]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Brain+tumor+segmentation+in+multi-spectral+MRI+using+convolutional+neural+networks+%28CNN%29&btnG=) 
 - [Brain tumor segmentation with deep neural networks]  [[scholar]](https://scholar.google.com/scholar?q=Brain+tumor+segmentation+with+deep+neural+networks&hl=ar&as_sdt=0&as_vis=1&oi=scholart) 
 - [Brain tumor segmentation with deep convolutional symmetric neural network]  [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219304692) 
+ #### Bladder tumor
+- [Bladder cancer segmentation in CT for treatment response assessment: application of deep-learning convolution neural network—a pilot study] [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241049/)
+- [Multiregion segmentation of bladder cancer structures in MRI with progressive dilated convolutional networks] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=Multiregion+segmentation+of+bladder+cancer+structures+in+MRI+with+progressive+dilated+convolutional+networks&btnG=)
+- [Bladder cancer treatment response assessment using deep learning in CT with transfer learning] [[SPIE digital library]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/1013404/Bladder-cancer-treatment-response-assessment-using-deep-learning-in-CT/10.1117/12.2254977.short?SSO=1)
+- [Bladder cancer multi-class segmentation in mri with pyramid-in-pyramid network] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8759422)
+#### Lung lesion
+- [Dual-Sampling Attention Network for Diagnosis of COVID-19 from Community Acquired Pneumonia] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=Dual-Sampling+Attention+Network+for+Diagnosis+of+COVID-19+from+Community+Acquired+Pneumonia&btnG=)
+- [Deep Learning-based Four-region Lung Segmentation in Chest Radiography for COVID-19 Diagnosis] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=Deep+Learning-based+Four-region+Lung+Segmentation+in+Chest+Radiography+for+COVID-19+Diagnosis&btnG=)
+- [A progressively-trained scale-invariant and boundary-aware deep neural network for the automatic 3D segmentation of lung lesions] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=A+progressively-trained+scale-invariant+and+boundary-aware+deep+neural+network+for+the+automatic+3D+segmentation+of+lung+lesions&btnG=)
+- [Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=Inf-Net%3A+Automatic+COVID-19+Lung+Infection+Segmentation+from+CT+Images&btnG=)
+- [A deep learning system to screen novel coronavirus disease 2019 pneumonia] [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S2095809920301636)
+- [COVID-19 Chest CT Image Segmentation--A Deep Convolutional Neural Network Solution] [[scholar]](https://scholar.google.com/scholar?q=COVID-19+Chest+CT+Image+Segmentation--A+Deep+Convolutional+Neural+Network+Solution&hl=ar&as_sdt=0,5&as_vis=1)
+ #### Prostate lesion
+- [] [[]]()
+- [] [[]]()
+- [] [[]]()
+- [] [[]]()
+- [] [[]]()
+- [] [[]]()
 - [] [[]]()
