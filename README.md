@@ -134,10 +134,30 @@ A curated list of medical image segmentation resources in DL.
 - [A deep learning system to screen novel coronavirus disease 2019 pneumonia] [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S2095809920301636)
 - [COVID-19 Chest CT Image Segmentation--A Deep Convolutional Neural Network Solution] [[scholar]](https://scholar.google.com/scholar?q=COVID-19+Chest+CT+Image+Segmentation--A+Deep+Convolutional+Neural+Network+Solution&hl=ar&as_sdt=0,5&as_vis=1)
  #### Prostate lesion
-- [] [[]]()
-- [] [[]]()
-- [] [[]]()
-- [] [[]]()
-- [] [[]]()
-- [] [[]]()
+- [Adversarial networks for the detection of aggressive prostate cancer] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=Adversarial+networks+for+the+detection+of+aggressive+prostate+cancer&btnG=)
+- [A Bi-Attention Adversarial Network for Prostate Cancer Segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&as_vis=1&q=A+Bi-Attention+Adversarial+Network+for+Prostate+Cancer+Segmentation&btnG=)
+- [Prostate lesion segmentation in MR images using radiomics based deeply supervised U-Net] [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0208521620300929)
+ #### Pancreas tumor
+- [Deep pancreas segmentation with uncertain regions of shadowed sets] [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0730725X19305909)
+- [Deep learning convolutional neural network (CNN) With Gaussian mixture model for predicting pancreatic cancer] [[springer]](https://link.springer.com/article/10.1007/s11042-019-7419-5)
+ #### Liver tumor
+- [Automatic segmentation of liver tumor in CT images with deep convolutional neural networks] [[SCIRP]](https://www.scirp.org/html/61314_61314.htm)
+- [Automatic liver and tumor segmentation of CT and MRI volumes using cascaded fully convolutional neural networks] [[arxiv]](https://arxiv.org/abs/1702.05970)
+- [Deep learning for automated segmentation of liver lesions at CT in patients with colorectal cancer liver metastases] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+learning+for+automated+segmentation+of+liver+lesions+at+CT+in+patients+with+colorectal+cancer+liver+metastases&btnG=)
+- [A joint deep learning approach for automated liver and tumor segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=A+joint+deep+learning+approach+for+automated+liver+and+tumor+segmentation&btnG=)
+- [Cascaded deep convolutional encoder-decoder neural networks for efficient liver tumor segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Cascaded+deep+convolutional+encoder-decoder+neural+networks+for+efficient+liver+tumor+segmentation&btnG=)
+- [Deep Learning Initialized and Gradient Enhanced Level-Set Based Segmentation for Liver Tumor From CT Images] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+Learning+Initialized+and+Gradient+Enhanced+Level-Set+Based+Segmentation+for+Liver+Tumor+From+CT+Images&btnG=)
+- [Automatic liver tumor segmentation in CT with fully convolutional neural networks and object-based postprocessing] [[nature]](https://www.nature.com/articles/s41598-018-33860-7)
+- [Modified U-Net (mU-Net) with incorporation of object-dependent high level features for improved liver and liver-tumor segmentation in CT images] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Modified+U-Net+%28mU-Net%29+with+incorporation+of+object-dependent+high+level+features+for+improved+liver+and+liver-tumor+segmentation+in+CT+images&btnG=)
+ #### Kidney tumor
+- [3d kidneys and kidney tumor semantic segmentation using boundary-aware networks] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=3d+kidneys+and+kidney+tumor+semantic+segmentation+using+boundary-aware+networks&btnG=)
+- [Crossbar-net: A novel convolutional neural network for kidney tumor segmentation in ct images] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8668577)
+- [Automatic segmentation of kidney and renal tumor in ct images based on 3d fully convolutional neural network with pyramid pooling module] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8545143)
+- [MB-FSGAN: Joint segmentation and quantification of kidney tumor on CT by the multi-branch feature sharing generative adversarial network] [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300852)
+- [Kidney and Renal Tumor Segmentation Using a Hybrid V-Net-Based Model] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Kidney+and+Renal+Tumor+Segmentation+Using+a+Hybrid+V-Net-Based+Model&btnG=)
+#### Colorectal cancer
+- [3-D RoI-Aware U-Net for Accurate and Efficient Colorectal Tumor Segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=3-D+RoI-Aware+U-Net+for+Accurate+and+Efficient+Colorectal+Tumor+Segmentation&btnG=)
+- [HL-FCN: Hybrid loss guided FCN for colorectal cancer segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=HL-FCN%3A+Hybrid+loss+guided+FCN+for+colorectal+cancer+segmentation&btnG=)
+- [Colorectal Tumor Segmentation of CT Scans Based on a Convolutional Neural Network With an Attention Mechanism] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Colorectal+Tumor+Segmentation+of+CT+Scans+Based+on+a+Convolutional+Neural+Network+With+an+Attention+Mechanism&btnG=)
+ #### Skin lesion 
 - [] [[]]()
