@@ -160,4 +160,28 @@ A curated list of medical image segmentation resources in DL.
 - [HL-FCN: Hybrid loss guided FCN for colorectal cancer segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=HL-FCN%3A+Hybrid+loss+guided+FCN+for+colorectal+cancer+segmentation&btnG=)
 - [Colorectal Tumor Segmentation of CT Scans Based on a Convolutional Neural Network With an Attention Mechanism] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Colorectal+Tumor+Segmentation+of+CT+Scans+Based+on+a+Convolutional+Neural+Network+With+an+Attention+Mechanism&btnG=)
  #### Skin lesion 
-- [] [[]]()
+- [Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks] [[IOP science]](https://iopscience.iop.org/article/10.1088/1757-899X/561/1/012107/meta)
+- [SkinNet: A deep learning framework for skin lesion segmentation] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=SkinNet%3A+A+deep+learning+framework+for+skin+lesion+segmentation&btnG=)
+- [Skin lesion segmentation in dermoscopic images with ensemble deep learning methods] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Skin+lesion+segmentation+in+dermoscopic+images+with+ensemble+deep+learning+methods&btnG=)
+- [Multiple skin lesions diagnostics via integrated deep convolutional networks for segmentation and classification] [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0169260719321698)
+- [Skin lesion segmentation in dermoscopy images via deep full resolution convolutional networks] [[sciencedirect]](https://www.sciencedirect.com/science/article/abs/pii/S0169260718304267)
+- [Generative adversarial networks to segment skin lesions] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Generative+adversarial+networks+to+segment+skin+lesions&btnG=)
+ #### Breast masses
+- [Deep structured learning for mass segmentation from mammograms] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+structured+learning+for+mass+segmentation+from+mammograms&btnG=)
+- [Deep learning and structured prediction for the segmentation of mass in mammograms] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+learning+and+structured+prediction+for+the+segmentation+of+mass+in+mammograms&btnG=)
+- [A deep learning approach for the analysis of masses in mammograms with minimal user intervention] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=A+deep+learning+approach+for+the+analysis+of+masses+in+mammograms+with+minimal+user+intervention&btnG=)
+### Calcification Segmentation
+ #### Breast microcalcification
+- [Convolutional neural networks for the segmentation of microcalcification in mammography imaging] [[hindawi]](https://www.hindawi.com/journals/jhe/2019/9360941/)
+- [Discrimination of breast cancer with microcalcifications on mammography by deep learning] [[nature]](https://www.nature.com/articles/srep27327)
+- [Microc alcification Segmentation Using Modified U-net Segmentation Network from Mammogram Images] [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S1319157819307347)
+ #### Coronary arteries calcification
+- [Fully-convolutional deep-learning based system for coronary calcium score prediction from non-contrast chest CT] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Fully-convolutional+deep-learning+based+system+for+coronary+calcium+score+prediction+from+non-contrast+chest+CT&btnG=)
+- [Automatic coronary calcium scoring in chest CT using a deep neural network in direct comparison with non-contrast cardiac CT: A validation study] [[sciencedirect]](https://www.sciencedirect.com/science/article/pii/S0720048X20306185)
+ #### Kidney stones
+- [Automatic detection of calcium phosphate deposit plugs at the terminal ends of kidney tubules] [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Automatic+detection+of+calcium+phosphate+deposit+plugs+at+the+terminal+ends+of+kidney+tubules&btnG=)
+ #### Breast arterial calcification
+- [Detecting Cardiovascular Disease from Mammograms With Deep Learning] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7827150)
+- [DU-Net: Convolutional Network for the Detection of Arterial Calcifications in Mammograms] [[IEEE]](https://ieeexplore.ieee.org/document/9076644)
+
+
