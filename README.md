@@ -13,7 +13,7 @@ A curated list of medical image segmentation resources in DL.
 # Review
 
 
-# Anatomical Structures Segmentation:
+# Anatomical Structures Segmentation :
   ### Multi-organ segmentation
 - [Focusnet: Imbalanced large and small organ segmentation with an end-to-end deep neural network for head and neck ct images]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Focusnet%3A+Imbalanced+large+and+small+organ+segmentation+with+an+end-to-end+deep+neural+network+for+head+and+neck+ct+images&btnG=) 
 - [Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Organ+at+Risk+Segmentation+for+Head+and+Neck+Cancer+using+Stratified+Learning+and+Neural+Architecture+Search&btnG=) 
@@ -114,7 +114,7 @@ A curated list of medical image segmentation resources in DL.
 - [A Three-Stage Deep Learning Model for Accurate Retinal Vessel Segmentation]  [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8476171) 
 - [Deep vessel segmentation by learning graphical connectivity]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Deep+vessel+segmentation+by+learning+graphical+connectivity&btnG=) 
  
-# Abnormalities Segmentation:
+# Abnormalities Segmentation :
 ### Lesions Segmentation
 #### Brain tumors
 - [Brain tumor segmentation using convolutional neural networks in MRI images]  [[scholar]](https://scholar.google.com/scholar?hl=ar&as_sdt=0%2C5&q=Brain+tumor+segmentation+using+convolutional+neural+networks+in+MRI+images&btnG=) 
