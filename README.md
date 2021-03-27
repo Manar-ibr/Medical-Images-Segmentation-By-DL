@@ -183,5 +183,6 @@ A curated list of medical image segmentation resources in DL.
  #### Breast arterial calcification
 - [Detecting Cardiovascular Disease from Mammograms With Deep Learning] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7827150)
 - [DU-Net: Convolutional Network for the Detection of Arterial Calcifications in Mammograms] [[IEEE]](https://ieeexplore.ieee.org/document/9076644)
-
+ #### Retinal pathologies (cotton-wool spots) 
+ - [Simultaneous Segmentation of Multiple Retinal Pathologies Using Fully Convolutional Deep Neural Network] [[scholar]](https://scholar.google.com/scholar?q=Simultaneous+Segmentation+of+Multiple+Retinal+Pathologies+Using+Fully+Convolutional+Deep+Neural+Network&hl=ar&as_sdt=0&as_vis=1&oi=scholart)
 
